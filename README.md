@@ -12,5 +12,4 @@ A simple web application to generate secure passwords.
 - CSS
 - JavaScript
 
-## 🌐 Live Demo
-https://yourusername.github.io/password-generator
+
